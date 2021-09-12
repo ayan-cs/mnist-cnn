@@ -5,6 +5,10 @@ Before running the code, make sure you have the dependencies installed in your e
 
 ## Performance of the model :
 
+**Loss and Accuracy plot (Training/Validation)**
+
+![plot](https://github.com/ayan-cs/mnist-cnn/blob/main/Train_Validation_report.png)
+
 **Test evaluation**
 ```
 Test loss :  0.02692016027867794 
